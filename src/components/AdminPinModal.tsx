@@ -117,7 +117,7 @@ export const AdminPinModal: React.FC<AdminPinModalProps> = ({
               maxLength={12}
               value={pin}
               onChange={(e) => setPin(e.target.value)}
-              placeholder="••••••••"
+              placeholder="••••"
               autoFocus
               className="w-full glass-input text-center rounded-xl py-3 text-xl tracking-[0.4em] font-mono font-bold text-white placeholder-slate-600 focus:border-amber-400"
             />
