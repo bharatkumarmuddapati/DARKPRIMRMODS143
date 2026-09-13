@@ -1,0 +1,6 @@
+{
+  "name": "DARK PRIME MODS",
+  "description": "Premium mobile-first full-stack APK distribution platform by Bharat Kumar featuring real APK uploads, metadata extraction, glassmorphism dark UI, and multi-stage download system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

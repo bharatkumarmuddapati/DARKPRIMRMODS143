@@ -1,0 +1,10 @@
+name = "dark-prime-mods"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "dist"
+
+[vars]
+DOWNLOAD_SIGNED_URL_TTL = "300"
+MAX_APK_SIZE = "524288000"
+RATE_LIMIT_WINDOW_MS = "60000"
+RATE_LIMIT_MAX_ATTEMPTS = "5"
+APP_BASE_URL = "https://darkprimemods.pages.dev"
